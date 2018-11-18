@@ -4,6 +4,6 @@
 
 *A curated list of resources about Python learning* 
 
-Choisissez en fonction de votre langue /Choose by your language:
-- [**fr** : README-fr.md](https://github.com/Sanix-Darker/237-Python-Starter/blob/master/README-fr.md)
-- [**en** : README-en.md](https://github.com/Sanix-Darker/237-Python-Starter/blob/master/README-en.md)
+Choisissez en fonction de votre langue / Choose by your language:
+- [**fr** : Liste en francais](https://github.com/Sanix-Darker/237-Python-Starter/blob/master/README-fr.md)
+- [**en** : English list](https://github.com/Sanix-Darker/237-Python-Starter/blob/master/README-en.md)
