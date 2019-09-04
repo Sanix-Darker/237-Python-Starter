@@ -43,7 +43,8 @@
 
 ### Environnements interactifs
 
-* [Des blocs au code avec le bijou!](Https://hourofpython.com/from-blocks-to-code-with-trinket/) (plus de ressources incluses dans [Hour of Python](https://hourofpython.com /))
+* [Des blocs au code avec le bijou!](Https://hourofpython.com/from-blocks-to-code-with-trinket/)
+* [Hour of Python](https://hourofpython.com/)
 * [Python pour tous](https://books.trinket.io/pfe/) - livre interactif trinket.io
 * [Comment penser comme un informaticien](http://interactivepython.org/courselib/static/thinkcspy/index.html) (plus de ressources incluses dans [Runestone Interactive](http://runestoneinteractive.org/library.html ))
 * [pythonroom](https://pythonroom.com/)
@@ -94,7 +95,10 @@
 * [Répertoire des cours et des cours Python](https://hackr.io/tutorials/learn-python)
 * [Python en tant que seconde langue](https://swcarpentry.github.io/python-second-language/)
 * [Un simple tutoriel sur l'utilisation efficace de pdb](https://github.com/spiside/pdb-tutorial)
-* [Python débutant](http://archive.oreilly.com/oreillyschool/courses/Python1/index.html) - [Tirer le meilleur parti de Python](http://archive.oreilly.com/oreillyschool/courses/Python2 /index.html) - [Environnement Python](http://archive.oreilly.com/oreillyschool/courses/Python3/index.html) - [Python avancé](http://archive.oreilly.com/oreillyschool/ courses / Python4 / index.html) - 4 cours de l’archive O'Reilly School of Technology
+* [Python débutant](http://archive.oreilly.com/oreillyschool/courses/Python1/index.html)
+* [Tirer le meilleur parti de Python](http://archive.oreilly.com/oreillyschool/courses/Python2/index.html)
+* [Environnement Python](http://archive.oreilly.com/oreillyschool/courses/Python3/index.html)
+* [Python avancé](http://archive.oreilly.com/oreillyschool/courses/Python4/index.html) - 4 cours de l’archive O'Reilly School of Technology
 * [Test et intégration continue avec Python](http://katyhuff.github.io/python-testing/) - un tutoriel de la menuiserie logicielle
 * [Terrain de jeu et feuille de calcul pour apprendre Python](https://github.com/trekhleb/learn-python)
 * [Essayez Python](https://www.codeschool.com/courses/try-python) - un cours gratuit de Code School
@@ -120,10 +124,10 @@
 * [Calcul exploratoire avec Python](http://mbakker7.github.io/exploratory_computing_with_python/)
 * [Charpenterie de données: Python pour les écologistes](http://www.datacarpentry.org/python-ecology-lesson/)
 * [Tracer et programmer en Python](http://swcarpentry.github.io/python-novice-gapminder/)
-* [Tracé appliqué, représentation graphique et représentation des données en Python](https://www.coursera.org/learn/python- plotting)
+* [Tracé appliqué, représentation graphique et représentation des données en Python](https://www.coursera.org/learn/python-plotting)
 * [Utilisation de Python pour la recherche](https://www.edx.org/course/using-python-research-harvardx-ph526x)
 * [Le Guide de l’auto-stoppeur sur l’apprentissage automatique en Python](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378)
-* [SIOC 209: Python pour l'analyse des données](https://github.com/cuttlefishh/python-for-data-analysis) et ses [vidéos associées](https://www.youtube.com/channel/UCVZrIrWtcvTzYlrNx7RcDyg/ listes de lecture)
+* [SIOC 209: Python pour l'analyse des données](https://github.com/cuttlefishh/python-for-data-analysis) et ses [vidéos associées](https://www.youtube.com/channel/UCVZrIrWtcvTzYlrNx7RcDyg/) - listes de lecture
 * [Python pour l'analyse des données](https://github.com/cuttlefishh/python-for-data-analysis) - Introduction à la science des données utilisant Python et les pandas avec les cahiers Jupyter
 * [Analyse reproductible en Python](https://github.com/trallard/ReproduciblePython)
 
@@ -165,7 +169,7 @@
 * [Pourquoi je pousse pour Python](http://lorenabarba.com/blog/why-i-push-for-python/) par Lorena Barba
 * [Pourquoi Python est une excellente première langue](http://blog.trinket.io/why-python/) par Elliott Hauser (PDG de Trinket)
 * [Pourquoi Python est une excellente langue pour enseigner aux débutants les cours d'initiation à la programmation](http://pgbovine.net/python-teaching.htm) par Philip Guo
-* [Python est maintenant la langue d'introduction la plus populaire dans les meilleures universités américaines](http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching -langue-au-top-us-universités / texte intégral) de Philip Guo (Communications de l'ACM)
+* [Python est maintenant la langue d'introduction la plus populaire dans les meilleures universités américaines](http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-langue-au-top-us-universités/) texte intégral de Philip Guo (Communications de l'ACM)
 * [Pourquoi apprendre le python? Voici 8 raisons basées sur les données](https://dbader.org/blog/why-learn-python) par Elena Ruchko
 * [[Niveau 1] Programmation: Python](http://web.archive.org/web/20160122210606/http://nzacditt.org.nz/resources/programming-and-cs/level-1-programming-python ) - Version archivée
 * [Python comme mode de pensée](http://allendowney.blogspot.com/2017/04/python-as-way-of-thinking.html)
@@ -349,6 +353,7 @@
 * [Turing](https://github.com/TuringApp/Turing) - IDE gratuit et multiplate-forme pour pseudocode et Python.
 * [PyScripter](https://github.com/pyscripter/pyscripter) - un environnement de développement intégré riche en fonctionnalités mais léger.
 * [Pyzo](http://www.pyzo.org/) - environnement informatique qui fonctionne bien avec conda.
+
 ### Débogueurs
 
 * [pdb](https://docs.python.org/3/library/pdb.html)
@@ -379,7 +384,7 @@
 * [Épisode 14 - Allen Downey sur l’enseignement de l’informatique avec Python](https://www.podcastinit.com/episode-14-allen-downey-on-teaching-computer-science-with-python/) de [podcast. \ __ init__ ('Python')](https://www.podcastinit.com/)
 * [Python for Informatics](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ)
 * [Python pour tout le monde - Informations d'exploration](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDbiblRfl5p)
-* [Listes de lecture youtube sentdex]](https://www.youtube.com/user/sentdex/playlists) ou via [Programmation Python](https://pythonprogramming.net/)
+* [Listes de lecture youtube sentdex](https://www.youtube.com/user/sentdex/playlists) ou via [Programmation Python](https://pythonprogramming.net/)
 * [La chaîne youtube de Dan Bader](https://dbader.org/youtube/)
 * [La chaîne youtube de Corey Schafer](https://www.youtube.com/user/schafer5)
 * [Didacticiels de programmation Python 3.4](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
@@ -517,148 +522,138 @@ O'Reilly
 
 * [CircuitPython](https://github.com/adafruit/circuitpython) - un fork de MicroPython pour l'apprentissage du codage avec des microcontrôleurs
 * [Awesome CircuitPython](https://github.com/adafruit/awesome-circuitpython) - Une liste organisée de guides, vidéos, bibliothèques, frameworks, logiciels et ressources impressionnants de CircuitPython.
+
 ## Autre
 
-- [Apprendre le python]
-------------------------------------------------
+### Apprendre Python
 
-apprendre-python.fr
+* https://www.apprendre-python.fr
 
-https://www.tutorialspoint.com/python/
+* https://www.tutorialspoint.com/python/
 
-https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python
+* https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python
 
-https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC
+* https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC
 
-- [Algorithme et structure de données]
-------------------------------------------------
+### Algorithme et structure de données
 
-https://doc.lagout.org/programmation/python/Data%20Structures%20and%20Algorithms%20in%20Python%20[Goodrich,%20Tamassia%20&%20Goldwasser%202013-03-18HER.pdf
+* https://doc.lagout.org/programmation/python/Data%20Structures%20and%20Algorithms%20in%20Python%20[Goodrich,%20Tamassia%20&%20Goldwasser%202013-03-18HER.pdf
 
-https://www.cs.auckland.ac.nz/courses/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf
+* https://www.cs.auckland.ac.nz/courses/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf
 
-- [Apprendre la programmation Web (pile complète)]
+### Apprendre la programmation Web (pile complète)
 
-https://developer.mozilla.org/fr/docs/Apprendre
+* https://developer.mozilla.org/fr/docs/Apprendre
 
-- [Learn Git, Gérer votre code source]
-------------------------
+### Apprendre Git, Gérer votre code source
 
-https://openclassrooms.com/fr/courses/1233741-gerez-vos-codes-source-avec-git
+* https://openclassrooms.com/fr/courses/1233741-gerez-vos-codes-source-avec-git
 
-https://www.grafikart.fr/formations/git
+* https://www.grafikart.fr/formations/git
 
-https://www.youtube.com/watch?v=rP3T0Ee6pLU&list=PLjwdMgw5TTLuY5i7RW0QqGdW0NZntqiP
+* https://www.youtube.com/watch?v=rP3T0Ee6pLU&list=PLjwdMgw5TTLuY5i7RW0QqGdW0NZntqiP
 
-https://www.youtube.com/watch?v=URcMBXjIr24
+* https://www.youtube.com/watch?v=URcMBXjIr24
 
-https://www.youtube.com/watch?v=La3SaI2hjzE
+* https://www.youtube.com/watch?v=La3SaI2hjzE
 
-https://www.youtube.com/watch?v=daBPgzan_wI
+* https://www.youtube.com/watch?v=daBPgzan_wI
 
-- [Apprenez Django]
-------------------------------------------------:
-https://developer.mozilla.org/fr/docs/Learn/Server-side/Django
+### Apprenez Django
 
-https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+* https://developer.mozilla.org/fr/docs/Learn/Server-side/Django
 
-https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
+* https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
 
-https://docs.djangoproject.com/fr/1.11/
+* https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
 
-- [Apprendre la fiole]
-----------------------------------------------------
-https://openclassrooms.com/fr/courses/1654786-creez-vos-applications-web-avec-flask/1654912-presentation-de-flask
+* https://docs.djangoproject.com/fr/1.11/
 
-https://www.youtube.com/watch?v=mr90d7fp3SE&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP
+### Apprendre Flask
 
-- [Web mise au rebut en python]
-------------------------------------------------:
+* https://openclassrooms.com/fr/courses/1654786-creez-vos-applications-web-avec-flask/1654912-presentation-de-flask
 
-https://zestedesavoir.com/billets/2057/scraper-des-donnees-sur-une-page-web-en-python-avec-beautifulsoup-1/
+* https://www.youtube.com/watch?v=mr90d7fp3SE&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP
 
-- [Science des données]
-------------------------------------------------
+### Web mise au rebut en python
 
-https://towardsdatascience.com/data-science/home
+* https://zestedesavoir.com/billets/2057/scraper-des-donnees-sur-une-page-web-en-python-avec-beautifulsoup-1/
 
-https://www.youtube.com/watch?v=Iqjy9UqKKuo&list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-
+### Data Science
 
-- [Visualisation de données]
-------------------------------------------------
-https://www.datacamp.com/courses/introduction-to-data-visualization-with-python
+* https://towardsdatascience.com/data-science/home
 
-https://www.youtube.com/user/sentdex/playlists?shelf_id=17&view=50&sort=dd
+* https://www.youtube.com/watch?v=Iqjy9UqKKuo&list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-
 
-https://towardsdatascience.com/data-visualization/home
+### Data visualization
 
-https://fr.coursera.org/learn/python-for-data-visualization
+* https://www.datacamp.com/courses/introduction-to-data-visualization-with-python
 
-- [Machine Learning]
-------------------------------------------------
-Chaîne Youtube spécialisée: sentdex, Siraj Raval
+* https://www.youtube.com/user/sentdex/playlists?shelf_id=17&view=50&sort=dd
 
-https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+* https://towardsdatascience.com/data-visualization/home
 
-https://towardsdatascience.com/machine-learning/home
+* https://fr.coursera.org/learn/python-for-data-visualization
 
-https://medium.com/coinmonks/deep-learning-with-python-15e4fa47c609
+### Machine Learning
 
-https://medium.freecodecamp.org/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da
+* Chaîne Youtube spécialisée: sentdex, Siraj Raval
 
-https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+* https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
 
-- [La finance]
-------------------------------------------
-https://www.youtube.com/user/sentdex/playlists?shelf_id=21&view=50&sort=dd
+* https://towardsdatascience.com/machine-learning/home
+
+* https://medium.com/coinmonks/deep-learning-with-python-15e4fa47c609
+
+* https://medium.freecodecamp.org/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da
+
+* https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+### Data science pour la finance
+
+* https://www.youtube.com/user/sentdex/playlists?shelf_id=21&view=50&sort=dd
 
 
-- [blogs utiles]
-------------------------------------------------:
-https://simpleisbetterthancomplex.com/
+### blogs utiles
 
-http://sametmax.com/
+* https://simpleisbetterthancomplex.com/
 
-https://medium.com/
+* http://sametmax.com/
 
-https://dev.to
+* https://dev.to
 
-https://towardsdatascience.com/
+* https://towardsdatascience.com/
 
-https://www.nasserzone.com
+* https://blog.nasser.cm
 
-- [livres utiles]
-------------------------------------------------
-http://inforef.be/swi/download/apprendre_python3.pdf
+### livres utiles
 
-- [Flux de musique en direct pour encodeur (concentration)]:
-https://www.youtube.com/watch?v=PQ22pgaXog4
+* http://inforef.be/swi/download/apprendre_python3.pdf
 
-- [Découvrez odoo]
-------------------------------------------------
+### Découvrir odoo
 
-https://www.youtube.com/watch?v=4hgyHlUFeLc
+* https://www.youtube.com/watch?v=4hgyHlUFeLc
 
-8 RESSOURCES POUR APPRENDRE ET MAÎTRISER LE ERP ODOO
+### 8 RESSOURCES POUR APPRENDRE ET MAÎTRISER LE ERP ODOO
 
-Niveau DEBUTANT
+#### Niveau DEBUTANT
 
-1- https://formation-odoo.blogspot.com
+* https://formation-odoo.blogspot.com
 
-2- https://www.odoo.com/documentation/10.0/howtos/backend.html
+* https://www.odoo.com/documentation/10.0/howtos/backend.html
 
-Niveau intermédiaire et avancé
+#### Niveau intermédiaire et avancé
 
-3- https://www.odoo.yenthevg.com/
+* https://www.odoo.yenthevg.com/
 
-4- http://learnopenerp.blogspot.com/search/label/Odoo
+* http://learnopenerp.blogspot.com/search/label/Odoo
 
-5- http://pinakinnayi.blogspot.com/
+* http://pinakinnayi.blogspot.com/
 
-Documents utiles
+#### Documents utiles
 
-6- https://odoo-users.readthedocs.io/fr/stable/index.html
+* https://odoo-users.readthedocs.io/fr/stable/index.html
 
-7- https://odoo-new-api-guide-line.readthedocs.io/en/latest/
+* https://odoo-new-api-guide-line.readthedocs.io/en/latest/
 
--https: //odoo-development.readthedocs.io/en/latest/
+* https://odoo-development.readthedocs.io/en/latest/
